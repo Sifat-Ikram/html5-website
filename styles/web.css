@@ -10,4 +10,6 @@ main{
 }
 main > ol > li{
      text-align: center;
+     padding: 20px;
+     border: 5x solid black;
 }
