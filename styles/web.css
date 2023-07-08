@@ -16,9 +16,14 @@ main{
 }
 main > ol > li{
      text-align: center;
-     padding: 20px;
+     padding: 10px;
      border: 5x solid black;
 }
 form{
+    background-color: white;
+    padding-top: 10px;
+}
+label{
+    display: block;
     margin-bottom: 10px;
 }
