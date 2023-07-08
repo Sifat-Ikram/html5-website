@@ -19,3 +19,6 @@ main > ol > li{
      padding: 20px;
      border: 5x solid black;
 }
+form{
+    margin-bottom: 10px;
+}
