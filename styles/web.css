@@ -12,18 +12,36 @@ nav{
 }
 main{
     margin: 10px;
-    background-color: aquamarine;
+    align-items: center;
+    text-align: center;
 }
 main > ol > li{
-     text-align: center;
+     
      padding: 10px;
      border: 5x solid black;
 }
 form{
+    padding-left: 30%;
+    width: 50%;
     background-color: white;
     padding-top: 10px;
+    align-items: center;
 }
 label{
     display: block;
     margin-bottom: 10px;
+}
+menu{
+    border: 5px solid black;
+    position: relative;
+    align-items: center;
+}
+table{
+    
+    border-collapse: collapse;
+    border-radius: 7px;
+}
+td, th{
+    border: 2px solid black;
+    padding: 7px;
 }
